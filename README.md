@@ -29,3 +29,8 @@ DBeaver: `localhost:5433`, db `de_test_db`, user `de_user`, password `de_passwor
 ```sql
 SELECT * FROM posts LIMIT 10;
 ```
+
+<img width="1920" height="1040" alt="dbeaver-img" src="https://github.com/user-attachments/assets/ac8230f0-4171-4584-a79a-228f8dc81ad2" />
+
+<img width="1920" height="1040" alt="airflow-img" src="https://github.com/user-attachments/assets/f012ff6d-77fa-49a0-8695-b590f5e22276" />
+
